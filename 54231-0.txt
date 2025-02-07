@@ -1,0 +1,1864 @@
+﻿The Project Gutenberg EBook of La casserole, by Oscar Méténier
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: La casserole:
+       drame en un acte, en prose
+
+Author: Oscar Méténier
+
+Release Date: February 25, 2017 [EBook #54231]
+
+Language: French
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA CASSEROLE ***
+
+
+
+
+Produced by Clarity, Hélène de Mink, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+
+
+
+
+    _Les pièces à succès. No 7._      _Prix NET: 60 centimes._
+
+    LA CASSEROLE
+
+    _Un acte_             par OSCAR MÉTÉNIER
+
+    AVEC DOUZE SIMILI-GRAVURES
+
+    [Illustration]
+
+    PARIS.--Ernest FLAMMARION, éditeur, 26, rue Racine.--PARIS
+
+
+
+
+EN VENTE:
+
+
+LUI!
+
+    Un acte par Oscar MÉTÉNIER
+    1er FASCICULE DES PIÈCES A SUCCÈS
+    AVEC DOUZE SIMILI-GRAVURES
+    _Prix NET: 60 centimes_
+
+
+LA CINQUANTAINE
+
+    Un acte par Georges COURTELINE
+    2me FASCICULE DES PIÈCES A SUCCÈS
+    AVEC DOUZE SIMILI-GRAVURES
+    _Prix NET: 60 centimes_
+
+
+LE MÉNAGE ROUSSEAU
+
+    Un acte par Léo TRÉZENIK
+    3me FASCICULE DES PIÈCES A SUCCÈS
+    AVEC DOUZE SIMILI-GRAVURES
+    _Prix NET: 60 centimes_
+
+
+EN FAMILLE
+
+    Un acte par Oscar MÉTÉNIER
+    4me FASCICULE DES PIÈCES A SUCCÈS
+    AVEC DOUZE SIMILI-GRAVURES
+    _Prix NET: 60 centimes_
+
+
+MON TAILLEUR
+
+    Comédie de salon en un acte d'Alfred CAPUS
+    5me FASCICULE DES PIÈCES A SUCCÈS
+    AVEC DOUZE SIMILI-GRAVURES
+    _Prix NET: 60 centimes_
+
+
+MONSIEUR ADOLPHE
+
+    Un acte d'Ernest VOIS et Alin MONTJARDIN
+    6me FASCICULE DES PIÈCES A SUCCÈS
+    AVEC DOUZE SIMILI-GRAVURES
+    _Prix NET: 60 centimes_
+
+
+
+
+_La Casserole_
+
+DRAME EN UN ACTE, EN PROSE
+
+_Représenté pour la première fois au THÉATRE LIBRE le 31 mai 1889._
+
+
+
+
+DU MÊME AUTEUR
+
+
+ROMANS ET NOUVELLES
+
+    Madame la Boule        1 volume 3 fr. 50
+    La Lutte pour l'Amour      --   3 fr. 50
+    Zézette                    --   3 fr. 50
+    Les Cabots                 --   3 fr. 50
+    Le Policier                --   3 fr. 50
+    La Nymphomane              --   3 fr. 50
+    Le Beau Monde              --   3 fr. 50
+    L'Amour vaincu             --   3 fr. 50
+    La Chair                   --  60 cent.
+    La Grâce                   --  60 cent.
+    Myrrha-Maria               --  60 cent.
+    La Croix                   --  60 cent.
+
+
+THÉÂTRE
+
+    Monsieur Betsy.
+    La Bonne à tout faire.
+    Rabelais.
+    Les Frères Zemganno.
+    Charles Demailly.
+    Très-Russe.
+    La Puissance des Ténèbres.
+    L'Orage.
+    Vassilissa Melentieva.
+    Mademoiselle Fifi.
+    Lui!
+    En Famille.
+    Confrontation.
+    La Brème.
+    Le Loupiot.
+    Le Lézard.
+    La Revanche de Dupont l'Anguille.
+
+
+38 601.--Imprimerie LAHURE, 9, rue de Fleurus, Paris.
+
+
+
+
+    OSCAR MÉTÉNIER
+
+    _La Casserole_
+
+    DRAME EN UN ACTE, EN PROSE
+
+    [Illustration]
+
+    PARIS
+
+    ERNEST FLAMMARION, ÉDITEUR
+
+    26, RUE RACINE, 26
+
+
+
+
+_PERSONNAGES_
+
+
+                               { MM.  MÉVISTO.
+    LE MERLAN .................
+                               {      ERNEST VOIS.
+
+                               {      ANTOINE.
+    LE PÈRE CHABOT ............
+                               {      HOMERVILLE.
+
+                               {      LÉO WILL.
+    LA TERREUR-DE-LA-MAUBE ....
+                               {      CAUDIEUX.
+
+                               {      PINSARD.
+    LE PATRON .................
+                               {      JOVENET.
+
+                               {      AMYOT.
+    PETIT-LOUIS ...............
+                               {      LABRUNY.
+
+                               {      ARQUILLIÈRE.
+    LE GARÇON .................
+                               {      HAUSSER.
+
+                               {      LUGNÉ-POË.
+    CRÉVECŒUR .................
+                               {      DANVERS.
+
+                               {      TINBOT.
+    UN GARDE RÉPUBLICAIN ......
+                               {      THUILLIER.
+
+                               { Mlles GABRIELLE FLEURY.
+    LA GRANDE CARCASSE ........
+                               {      GABRIELLE ROGER.
+
+    LA VIEILLE LISA ...........       LOUISE FRANCE.
+
+                               {      EUGÉNIE NAU.
+    LA ROUQUINE ...............
+                               {      LOLA NOYR.
+
+_Gardiens de la paix, musiciens, souteneurs et filles._
+
+A PARIS, RUE DU FOUARRE
+
+Les simili-gravures ont été reproduites d'après les photographies de MM.
+CAUTIN et BERGER.
+
+
+
+
+_La Casserole_
+
+
+    A
+    ANDRÉ ANTOINE
+    _Directeur du THÉATRE LIBRE_
+
+
+
+
+   La scène représente une salle de marchand de vins. Au fond, une
+   porte à deux battants communiquant avec une salle de bal.
+   Au-dessus de cette porte, un écriteau: _Entrée du bal, 20
+   centimes._ A gauche, un comptoir de zinc, et derrière ce comptoir
+   une étagère chargée de bouteilles. A droite, devanture et porte
+   vitrée donnant sur la rue. Sur les murs, des chromos, des dessins
+   à la main et ces inscriptions peintes: _Ici on paye en servant.
+   Pas de consommations au-dessous de 15 centimes._ Tables de bois
+   blanc entourées de bancs et de sièges. A l'intérieur du bal, un
+   garde républicain. A la cantonade, l'orchestre joue une polka.
+
+
+SCÈNE PREMIÈRE
+
+   LE PATRON, LA TERREUR-DE-LA-MAUBE, CRÉVECŒUR, assis à une table
+   à droite, LE GARÇON, puis LISA.
+
+LE PATRON.--Je te dis que je veux plus te servir, c'est clair ça, hein?
+
+CRÉVECŒUR, à moitié gris.--Rien qu'un demi-setier!...
+
+LE PATRON.--Rien du tout! T'es trop teigne quand t'es saoul!... tu
+cherches des rognes à tout le monde... ça me convient pas!
+
+CRÉVECŒUR.--Ça n'est pas vrai! Y a qu'aux crâneurs que je cherche des
+rognes quand ils m'embêtent!
+
+LA TERREUR, s'avançant.--Dis donc? C'est-y pour moi que tu dis ça?
+
+CRÉVECŒUR.--Pour toi comme pour les autres.
+
+LA TERREUR, menaçant.--Tu sais... répète pas!
+
+CRÉVECŒUR.--Je répéterai... si ça me plaît... et puis, je veux à boire!
+
+  Il assène un coup sur la table avec un verre qui vole en éclats.
+
+LA TERREUR.--Patron, faut-il le sortir?
+
+LE PATRON.--Allez-y, la Terreur!
+
+CRÉVECŒUR, se levant.--Viens-y donc, grand lâche!
+
+LA TERREUR.--Ugène, ouvre la porte! (Le garçon court à la porte, la tient
+grande ouverte. La Terreur saisit Crévecoeur par la ceinture. Malgré sa
+résistance, il le soulève à bras tendus, et le lance dehors. Bruit de
+chute dans la coulisse. Le garçon referme la porte.) Un de purgé! C'est
+pas plus malin que ça!
+
+    Lisa entre.
+
+
+LE PATRON, debout près de l'entrée du bal.--Merci bien, la Terreur!...
+Tiens, dis donc... c'est-y pas la Carcasse, là-bas?
+
+LA TERREUR.--Oui, une rude fille... elle en a de l'estomac! J'en connais
+pas pour la dégoter. Et pourtant, j'en connais quelques-unes... sans me
+vanter!
+
+LISA, descendant à droite.--Dire que j'étais comme ça, il y a quelques
+années... ça m'a passé, ça y passera aussi, ayez pas peur!
+
+LE PATRON.--Y a joliment longtemps qu'on ne l'a pas vue, y a au moins six
+mois. Est-ce qu'elle n'a pas été fabriquée, un jour que....
+
+    Il fait le geste de voler.
+
+LA TERREUR.--J'sais pas, mais j'ai entendu dire qu'elle était bien avec
+la rousse, faut se méfier.
+
+L'orchestre se tait. Un murmure s'élève dans le bal et la grande Carcasse
+entre au bras de Petit-Louis. Derrière elle, danseurs et danseuses.
+
+
+SCÈNE II
+
+   LES MÊMES, LA CARCASSE, PETIT-LOUIS, LA ROUQUINE, DANSEURS ET
+   DANSEUSES.
+
+
+LA CARCASSE.--Eh ben, les enfants, qu'est-ce que vous dites de ça? Je
+vous ai fait caner tous, hein! Une demi-heure de polka sans piper! Ah!
+regardez-moi donc le Petit-Louis! T'en peux plus, mon vieux!
+
+PETIT-LOUIS, s'épongeant le front.--J'peux pus souffler! C'est comme les
+musiciens, ils avaient pus de vent.... Tu leur as fait gagner leur
+argent. (Il s'assied.) Ouf!
+
+LA CARCASSE.--T'es donc pas un homme? En v'là un mollasson! Tâte-moi donc
+ce biceps, tiens! Moi, je danserais jusqu'à demain.... Je veux être bonne
+fille, viens boire un verre, Petit-Louis!
+
+    Elle l'entraîne au comptoir.
+
+[1][«LA TERREUR.--Dites donc, patron, savez que tantôt j'ai fait que
+trente-sept ronds... dam! y a pas de quoi croustiller chérot... pendant
+que les guincheurs vont s'enfiler un glass, si j'en donnais une petite
+séance....
+
+«LE PATRON.--Faites, faites, la Terreur, allez donc!
+
+«LA TERREUR.--Eh ben, les enfants, qu'est-ce qui va me chercher mes
+poids.... Vous savez où que je mets mes outils... à côté de la porte...
+là, sous le petit hangar.
+
+«Il enlève son paletot et apparaît en maillot pendant que deux assistants
+étendent un tapis, sur lequel ils déposent les poids.
+
+«LA CARCASSE.--En v'là des manières de se défringuer ici! Pour qui qu'y
+nous prend?
+
+«LA TERREUR.--Dis donc, toi, eh! crevette, est-ce que je m'occupe de ton
+turbin? T'occupes donc pas du mien!
+
+[Illustration: UN BEAU GAS, LA TERREUR!]
+
+«PETIT-LOUIS.--Laisse-le gagner sa vie, c'est un aminche.
+
+«LA CARCASSE.--On est là pour guincher, on est pas là pour admirer sa
+structure.
+
+«LA TERREUR.--Ferme donc ça, eh! marmotte! Dites donc, les enfants, j'vas
+vous en donner une petite secousse, mais vous savez que je suis pas là
+pour m'amuser. Le bureau est ouvert. Vous êtes des ouvriers comme moi,
+mais un petit sou par-ci, un petit sou par-là, moi, ça me fait ma petite
+journée.... J'ai pas besoin de vous en dire plus long....
+
+    «La Terreur commence à travailler avec ses poids.
+
+«LISA.--Un beau gars, la Terreur! C'est égal, je me l'envoierais bien!
+
+«LA ROUQUINE.--Si tu savais ce qu'il est crapule avec les femmes, tu
+dirais pas ça.
+
+«LA CARCASSE.--Il a pas bientôt fini de nous raser avec ses poids en
+carton.
+
+«LA TERREUR.--En carton! Viens donc y mettre les doigts! eh! chipie! (Il
+laisse tomber un poids.) Tiens, paye seulement un verre, je le mets sur
+un poids et je le bois d'une main!
+
+«LA CARCASSE.--Chiche! je le paye, fais servir!
+
+«LA TERREUR.--Garçon, un rhum!
+
+«La Terreur prend d'une main un poids à la pincée, fait placer dessus un
+verre plein et boit.
+
+«LA CARCASSE.--Ah! ça, c'est épatant! Je te rends mon estime.
+
+«LA TERREUR.--Pas de boniment et un peu plus de pognon! Les enfants...
+s'il vous plaît... s'il vous plaît... oubliez pas la Terreur!
+
+«Pendant qu'il fait la quête en commençant par la Carcasse, deux
+assistants enlèvent le tapis et les poids. La Terreur se perd dans la
+foule et va se rhabiller dans le fond.»]
+
+/#[2,68]
+  [1] La scène mise entre guillemets peut être supprimée à la
+  représentation, en cas d'insuffisance de l'artiste chargé du rôle
+  de la Terreur-de-la-Maube.
+
+LA ROUQUINE, à Lisa.--Qu'est-ce que c'est donc que c'te bonne femme-là?
+
+LISA.--Tu la connais pas! C'est la grande Carcasse, l'ancienne bonne amie
+au Marin! On a assez parlé d'elle dans les journaux!
+
+LA ROUQUINE, soupçonneuse.--Le Merlan la connaît?
+
+LISA.--Si il la connaît, lui, l'ami du Marin? Pour sûr! Tu sais,
+méfie-toi!
+
+LA ROUQUINE.--As pas peur, j'y aurai l'oeil.
+
+LISA.--Elle est capable de tout... pas qu'elle est grande et frusquée à
+peu près, elle méprise les anciennes.... Si on avait pas été là pour y
+montrer le chemin, ah! malheur! Maintenant, ça fait la fière! Méfie-toi,
+je te dis, ton Merlan, je le connais, c'est un vrai paillasson!
+
+LA ROUQUINE.--T'as rien à craindre! Si tu te figures qu'a me fait peur!
+j'en ai vu bien d'autres!
+
+    Elle va au comptoir et pousse du coude la Carcasse.
+
+LA CARCASSE, se retournant.--Dites donc, vous, la rouge, si vous faisiez
+un peu attention, hein? Y sont pas capitonnés, vos osselets!
+
+[Illustration: BONJOUR, LA PETITE FAMILLE!]
+
+LA ROUQUINE, grincheuse.--Faut se retirer quand je passe!
+
+LA CARCASSE.--Faut se retirer! Pas de manières, hein! Tu m'a pas
+regardée!
+
+PETIT-LOUIS.--Laisse-la tranquille. Elle l'a pas fait exprès... pas vrai,
+la Rouquine?
+
+LA CARCASSE.--Non... mais avez-vous vu c'te poupée en cire! Je voudrais
+pas souffler dessus, a s'envolerait!
+
+LA ROUQUINE.--T'as qu'à essayer!
+
+LA CARCASSE.--Ça va pas être long!
+
+Petit-Louis s'interpose, entraîne la Carcasse à la table de gauche, sur
+laquelle il dépose les deux verres, puis il s'assied. Pendant ce jeu de
+scène, les deux femmes se toisent du regard.
+
+PETIT-LOUIS, s'approchant très près de la Carcasse.--Voyons... te fâche
+pas, là... assieds-toi! Et continuons notre petite conversation, veux-tu?
+
+LA CARCASSE.--J'veux bien, mais que c'te grenouille-là essaye pas de
+m'embêter!...
+
+PETIT-LOUIS.--Mais non! Mais non! Écoute un peu!
+
+Il passe un bras sous celui de la Carcasse et lui parle à l'oreille.
+
+LA ROUQUINE, toujours au comptoir.--Patron, une verte!
+
+LE PATRON.--Une verte, à c't'heure-ci?
+
+LA ROUQUINE, sombre.--Oui, à c't'heure-ci!
+
+LISA.--La Rouquine qui boit de l'absinthe! Sûr, y aura un coup de chien,
+ce soir! Ce sera rien rigolo!
+
+LA TERREUR, à Lisa.--On dirait que le Petit-Louis en pince pour la
+Carcasse.
+
+LISA.--S'il a des poches, il peut se fouiller. Tiens, un miché... le père
+Chabot!
+
+
+SCÈNE III
+
+   LES MÊMES, LE PÈRE CHABOT.
+
+
+LE PÈRE CHABOT, titubant.--Bonjour, la petite famille! Eh bien, quoi? On
+ne rigole plus maintenant? Je suis pour la joie, moi!
+
+    Il chante.
+
+    Elle s'appelait Madeleine,
+    Zig zon zig zon zaine;
+    Elle s'appelait Madeleine.
+    Aux oiseaux! Aux oiseaux!
+
+    Il s'assied à la table de droite.
+
+LA TERREUR.--Qu'est-ce que c'est que ce paroissien-là?
+
+LISA.--L'père Chabot, l'marchand de vaches de la rue Boutebrie, un
+richard!
+
+LA TERREUR.--Tu le connais?
+
+LISA.--Si je le connais! C'est un client à moi... d'puis vingt ans!
+
+LA TERREUR.--C'est lui qui t'entretient?
+
+LISA.--Des fois! Bonjour, père Chabot! Ça va bien, c'te santé?
+
+CHABOT.--Pas mal! Pas mal! Ça se maintient. Garçon!
+
+[Illustration: JE TE DIS, PAS AUJOURD'HUI, LA!]
+
+LE GARÇON.--M'sieu Chabot!
+
+CHABOT.--Donne-moi un verre de schnick... et tu sais... d'la bouteille au
+patron... pas de blagues!
+
+LISA, se coulant sur le banc, près de Chabot.--Tu me régales?
+
+CHABOT.--Non, pas aujourd'hui!
+
+LISA.--On n'aime donc plus sa petite Lisa?
+
+CHABOT, bourrant sa pipe.--Je te dis, pas aujourd'hui, là!
+
+LISA.--Tu me donneras bien une cigarette?
+
+CHABOT.--Ça, oui, si t'as du papier! Y aurait-il moyen... d'avoir du
+feu... avec des protections?... (Lisa se lève et court au comptoir
+chercher une allumette. Le garçon apporte un petit verre.) Est-ce que tu
+te fous de moi? Je t'ai pas demandé un dé à coudre... j'veux un grand
+verre.
+
+LISA, revenant avec une allumette enflammée.--Tu te plaindras pas que
+j'aye pas soin de toi! (Elle l'aide à allumer sa pipe.) Voyons! j'ai bien
+mérité une petite goutte!
+
+Le garçon apporte un grand verre qu'il remplit d'eau-de-vie jusqu'au
+bord.
+
+CHABOT.--T'es rien devenue canule depuis que je t'ai vue! Quand j'ai dit
+non, c'est non!
+
+LISA.--Alors, c'est fini, nous deux, mon petit Chabot? Pus d'amour?
+
+CHABOT.--Non! pus d'amour du tout! J'suis devenu un homme sérieux!
+
+    Il chante.
+
+    Madeleine, c'est un beau nom,
+    La belle zig zig, la belle zig zon.
+    Madeleine, c'est un beau nom
+    Pour la fille d'un capitaine:
+    Aux oiseaux! Aux oiseaux!
+
+LISA.--Voyons! T'as rien à me reprocher! j'ai toujours été gentille avec
+toi.
+
+CHABOT.--C'est possible.
+
+LISA.--Tu veux m'empêcher de gagner ma vie?...
+
+CHABOT.--Puisque je te dis que j'ai acheté une conduite.
+
+LISA, très pressante.--Voyons, mon petit Chabot!.. mon petit Chabot... Je
+t'assure... tu verras....
+
+Elle lui parle à l'oreille.
+
+LA CARCASSE, se levant.--Non, Petit-Louis! Y a rien de fait! Tu perds ton
+temps.
+
+PETIT-LOUIS.--Si tu me connaissais....
+
+LA CARCASSE.--J'te connais assez! Des michés, tant qu'on voudra! Des
+béguins, jamais de la vie! J'suis assez de toute seule pour manger ma
+bonne galette!
+
+PETIT-LOUIS.--A deux, on fait des économies! Et puis, ça te ferait une
+compagnie.
+
+LA CARCASSE.--Non, mon vieux, non! moi, j'veux ma liberté! Avoir un homme
+pour qu'y vous foute des coups!
+
+[Illustration: VA DONC REMISER TON FIACRE!...]
+
+PETIT-LOUIS.--Pas moi, par exemple! J'suis tout ce qu'il y a de doux!
+
+LA CARCASSE.--J'aime pas ça non plus, les hommes doux, es-tu content? Ah!
+là, là, t'es pas le premier qu'as voulu acheter ma figure, mais j'suis
+trop marlouse, vois-tu! Tu m'as bien fait danser. J'vas te régaler...
+pour une fois, hein? J'peux bien faire ça pour toi!
+
+Elle va au comptoir et jette au patron le prix des deux verres. Puis,
+elle va se regarder dans une petite glace pendue au mur et arrange ses
+cheveux.
+
+LISA.--Alors... non?
+
+CHABOT, brutalement.--Non!
+
+LISA.--J'suis pourtant pas dépensière, pas exigeante.... Voyons! là... tu
+me donneras ce que tu voudras.
+
+CHABOT.--Zut! (Au garçon.) Dis donc, l'employé, pourquoi que tu m'as pas
+fait payer tout de suite?
+
+LE GARÇON.--Oh! vous, m'sieu Chabot!
+
+CHABOT, à moitié gris.--Y a un règlement d'affiché! J'connais que le
+règlement, moi!... J'veux pas de faveur! Combien que je dois?
+
+LE GARÇON.--Ça fait six sous.
+
+CHABOT.--Ah! six sous!
+
+Il sort de sa poche une bourse en cuir, dénoue les cordons, l'étale sur
+la table et y plonge la main.
+
+LA TERREUR.--Ah! ça, il a donc escroqué quelqu'un? C'est scandaleux
+d'avoir tant de galette, quand les autres sont fauchés! (A la Rouquine.)
+Il serait rudement bon à dégringoler.
+
+LISA.--Donne-moi au moins cinquante centimes pour mon tabac?
+
+CHABOT, payant.--V'là huit sous! Ça fait-il le compte?
+
+LE GARÇON.--Merci ben, m'sieu Chabot!
+
+LISA.--Cinq ronds! Rien que cinq ronds! Pour ma goutte, demain matin!
+
+CHABOT.--Rien.
+
+LISA, piquée.--T'es rien avare.
+
+CHABOT, de plus en plus gris.--Je suis simplement écolome.. j'suis rangé
+des voitures!
+
+LA CARCASSE, s'approchant de Chabot, qui renoue les cordons de sa
+bourse.--Tiens! mon oncle!
+
+CHABOT, riant bêtement.--Ah! Ah! Ah! C'est une nouvelle! Ah! elle est
+rigolote!
+
+LA CARCASSE.--Oh! c'est épatant ce que t'as la bobine à mon oncle.
+
+CHABOT.--Dis donc.... Veux-tu être ma nièce?
+
+LA CARCASSE.--Merci! Je sors d'en prendre! Si c'est tout ce que tu peux
+faire pour moi!
+
+[Illustration: ELLE MARCHE AVEC LA ROUSSE!]
+
+CHABOT, avec difficulté.--J'ferai tout ce que tu voudras! Tiens, viens
+t'asseoir là!
+
+LA CARCASSE.--J'ai des fourmis dans les jambes. Merci! J'suis pas venue
+pour m'asseoir, je suis venue pour danser! Et puis, d'ailleurs, j'aime
+pas tant que ça les vieux!
+
+CHABOT.--Moi, j'suis pas vieux... pas vieux du tout! Et tu sais... j'suis
+pas ingrat!... Quel âge que t'as?
+
+LA CARCASSE.--Dix-neuf ans, toutes mes dents et pas de corset!
+
+LISA.--Dix-neuf ans! As-tu fini! Dix-neuf ans et puis quelque chose avec!
+L'écoute pas, mon vieux Chabot! Reste avec moi, va, c'est dans les vieux
+pots qu'on fait de la bonne soupe.
+
+LA CARCASSE.--C'est pas la peine de te démancher tant que ça, va, je te
+l'enlèverai pas, ton vieux! Non, mais j'vous demande un peu si ça serait
+pas mieux à six pieds sous terre, en train de manger du pissenlit par la
+racine!
+
+L'orchestre joue les premières mesures d'un quadrille.
+
+LE PATRON.--Le dernier quadrille! Après ça on ferme!
+
+LA CARCASSE.--Le dernier quadrille! J'en suis! Qu'est-ce qui me fait
+vis-à-vis?
+
+Elle exécute une série d'entrechats.
+
+CHABOT, se levant avec peine.--Moi! moi!
+
+LISA.--Tu vas pas aller avec c'te roulure-là! Voyons, mon petit Chabot,
+quitter ta petite Lisa!
+
+CHABOT, bousculant Lisa.--Veux-tu me foutre la paix, une fois pour
+toutes! (Se campant en face de la Carcasse.) Allons-y! C'est moi... ton
+cavalier!
+
+Il fait un avant-deux et titube, la Carcasse le retient.
+
+LA CARCASSE.--Tu sais... avec moi, faut des jambes!
+
+CHABOT.--Des jambes! j'en ai, des jambes! Tu vas voir un peu!
+
+La Carcasse entraîne Chabot dans le bal.
+
+LISA.--R'gardez-moi un peu c'te Jeanne d'Arc, qui vient vous souffler vos
+clients sous le nez!
+
+LA CARCASSE, disparaissant dans le bal.--Va donc remiser ton fiacre, eh!
+vieux restant de Saint-Lazare!
+
+    Tous la suivent, sauf la Rouquine et Lisa.
+
+
+SCÈNE IV
+
+   LA ROUQUINE, LISA, LE PATRON, LE GARÇON, puis LE MERLAN.
+
+
+LISA.--Ah! si j'avais dix ans de moins... et pas de rhumatisses!... Mais
+je le repincerai... c'est pas fini, c't'affaire là!... Tiens, le Merlan!
+
+LE MERLAN. Il entre et fait un moulinet avec sa canne; à la
+Rouquine.--Qu'est-ce que tu fais là? C'est comme ça que tu travailles?
+
+[Illustration: FAUDRA QU'ELLE PAYE LA SAUCE!]
+
+LA ROUQUINE, humblement.--Écoute, chéri....
+
+LE MERLAN.--Quoi? As-tu de la monnaie?
+
+LA ROUQUINE, la tête basse.--Non!
+
+LE MERLAN.--J'aime qu'on s'occupe.... Je peux pas souffrir les feignants,
+moi!
+
+LA ROUQUINE.--Mon petit homme, tu sais bien que je t'aime tout plein...
+que j'aimerais mieux me passer de manger que de te voir triste et sans le
+sou.... Tiens, regarde.... (Elle fouille dans sa poche.) Il me reste cent
+sous, les voilà! D'ici ce soir, j'en ferai d'autres... seulement, veux-tu
+que je te dise.... Y a des moments que je suis jalouse... j'ai pas le
+coeur à l'ouvrage.... Il me semble que tu m'aimes plus... et que pendant
+que je travaille.... Tu feras jamais ça, est-ce pas? Tu me ferais trop de
+peine.... Tu n'aimeras jamais que moi, dis?...
+
+LE MERLAN.--Est-ce que c'est bientôt fini?
+
+LA ROUQUINE.--Vois-tu!... si jamais tu me trompais....
+
+LE MERLAN.--Je vois que tu tiens à avoir une explication avec le bout de
+ma botte!
+
+LA ROUQUINE.--Mon petit homme...
+
+LE MERLAN.--Fais-moi le plaisir de filer, hein! Et plus vite que ça.
+
+LA ROUQUINE, humble.--Je m'en vais.
+
+Elle marche à pas lents en regardant le Merlan, qui se dirige vers le
+comptoir.
+
+LE MERLAN.--Eh bien, patron! Ça va les affaires?
+
+    Le patron et le Merlan causent à voix basse.
+
+LISA, à la Rouquine.--Va, ma fille, l'excite pas! Je connais ça, moi,
+vois-tu! Au fond, c'est pas un mauvais coeur, le Merlan, seulement, faut
+savoir le prendre!
+
+LA ROUQUINE.--Surveille-le! s'il y avait quelque chose...
+
+LISA.--Je te préviendrai!
+
+    La Rouquine sort.
+
+
+SCÈNE V
+
+   LISA, LE MERLAN, LE PATRON.
+
+
+LISA, [à part.--Attends, Carcasse! Tu vas me payer ça!] J'ai mon plan! Le
+Merlan, c'était l'ami au Marin... l'ancien de la Carcasse. Attends un
+peu! (Haut.) Dis donc, Merlan, t'es pas gracieux pour c'te pauvre
+Rouquine.
+
+LE MERLAN.--Tiens, t'étais là, toi, la mère Lisa?
+
+LISA.--Bien sûr! Elle t'aime bien, tu sais.
+
+LE MERLAN.--Elle m'aime trop, ça me gêne!
+
+LISA.--Toi, tu l'aimes donc plus?
+
+LE MERLAN.--Faut bien que je l'aime, jusqu'à ce que j'en trouve une
+autre... Je l'ai pas à perpétuité!
+
+[Illustration: LE PÈRE CHABOT VOLÉ (JEU DE SCÈNE)]
+
+LISA.--Tu sais pas pourquoi qu'elle t'a fait une scène... c'est qu'il y
+en a là une autre... une nouvelle... une chouette... que tu connais bien
+et que tu serais peut-être pas fâché de revoir...
+
+LE MERLAN, intéressé.--Qui donc?
+
+LISA.--Vas-y voir, elle danse! (A part, pendant que le Merlan se dirige
+vers l'entrée du bal.) Nous y v'là!
+
+LE MERLAN.--Laquelle donc?
+
+LISA.--Tu vois pas?... Celle qui lève la jambe à la hauteur de l'oeil....
+
+LE MERLAN, pâle et faisant un pas en arrière.--Tonnerre! la Casserole!
+
+LISA.--Hein, quoi?
+
+LE MERLAN.--La Casserole! Ah! mon pauvre Marin! Oui, c'est bien elle!
+C'est bien sa tronche! Elle a beau se farguer, je la reconnais aux
+châsses! Ah! la canaille!
+
+LE GARDE RÉPUBLICAIN.--Allons! Entrez ou sortez! Restez pas là!
+
+    Il passe.
+
+LE MERLAN.--De quoi est-ce qu'il s'occupe encore, celui-là? (il va
+jusqu'à la porte de la rue.) Encore des fliques qui passent! Quel sale
+quartier! On peut pas faire un pas sans se foutre dans de la rousse!
+
+
+SCÈNE VI
+
+LES MÊMES, LA TERREUR, PETIT-LOUIS
+
+
+LA TERREUR.--Elle est tout de même épatante, c'te môme-là! Elle vous
+pince une frétillante avec un chic! Tiens, le Merlan, bonjour!
+
+LE MERLAN, sombre.--Bonjour... Vous l'avez vue aussi, hein?
+
+LA TERREUR.--Qui?
+
+LE MERLAN.--La grande Carcasse.
+
+LA TERREUR.--Oui! c'est une gigolette, je te dis que ça! Tu la connais
+aussi, toi?
+
+LE MERLAN, amèrement.--Oui, je la connais aussi! Mais c'est pas de ça
+qu'il s'agit! Méfiez-vous! (Confidentiellement.) C'est une castrole...
+elle marche avec la rousse!
+
+PETIT-LOUIS.--Ah, bah!
+
+LA TERREUR.--Je l'avais déjà entendu dire.
+
+LE MERLAN.--Moi, j'en suis sûr! C'est elle qui a fait gerber le Marin,
+vous savez bien, le Marin?... Il est au dur et pour dix ans... à cause
+d'elle!
+
+PETIT-LOUIS.--Pas possible!... Et moi, qui tout à l'heure... j'étais bien
+tombé!
+
+[Illustration: TIENS, CASSEROLE, V'LA POUR TOI!]
+
+LE MERLAN.--Oui, à cause d'elle!... de c'te bonne femme qu'est en train
+de faire la belle jambe avec son vieux.... Je vas vous conter çà. (Il
+s'assied à la table de droite, la Terreur et Petit-Louis s'asseyent près
+de lui.) Garçon, du pétrole! Et puis, des brêmes! En maquillant les
+brêmes, on jaspine mieux!
+
+LISA.--Y aura bien un verre pour moi....
+
+LE MERLAN.--Parfaitement! T'es pas de trop! Toi, t'es une frangine! Tu
+causes pas... quand il faut se taire...
+
+Le garçon apporte un litre d'eau-de-vie, des verres et un jeu de cartes.
+
+LISA.--Garçon, un verre pour ma figure!
+
+    Elle s'assied.
+
+LE MERLAN, mettant dans son oeil une pièce de cinq francs comme un
+monocle et la faisant sauter d'une chiquenaude sur la table.--Amarre la
+thune! C'est la dernière! Plus un radis, mais la gonzesse turbine, y aura
+de la galtouze ce soir!
+
+LE GARÇON.--V'là votre monnaie, le Merlan!
+
+LE MERLAN.--C'est bon! (Le garçon se retire. Le Merlan verse de
+l'eau-de-vie dans les verres.) Vous l'avez tous connu, l'Marin, n'est-ce
+pas? C'était un camarade à moi, un ami de coeur, je l'aimais!
+
+LISA.--La Rouquine en était jalouse.
+
+LE MERLAN, avec un sourire contenu.--Elle avait p't'être raison? Des amis
+comme ça, on y tient! C'est à la vie, à la mort! La preuve, c'est que je
+le regrette! Je me suis jamais consolé depuis son départ! Tandis que les
+femmes.... Pfff! Une de perdue, dix de retrouvées!...
+
+LISA.--Ça, c'est vrai, les femmes! c'est pas rare!
+
+LE MERLAN.--Aussi, un beau jour, vous verrez... faudra que je la crève,
+la sale Carcasse!
+
+LA TERREUR.--Ah! tu sais, faut bien réfléchir avant... moi, je suis pour
+la prudence.
+
+LE MERLAN.--La prudence! Tu me fais rire, tiens! T'as donc jamais été
+touché là, toi, au coeur? (Il se frappe la poitrine.) Quand ça me
+prendra, ça ne traînera pas! A toi de faire, Petit-Louis, maquille,
+maquille! Ça regarde pas le bistro, ce que je jaspine là! Faut qu'y croit
+que nous jouons!
+
+LISA.--Ah! oui, le coeur! Ça fait souffrir! Je sais ce que c'est! Quand
+vous en aurez souffert autant comme moi! J'en ai eu deux, des amis, moi,
+à qui qu'on a coupé le cou.... Eh bien! j'sais la peine que ça m'a fait!
+
+LE MERLAN.--Il l'avait prise, sortant du claque, sans un radis, sans une
+liquette à se foutre sur le dos! Rien de rien! On turbinait ensemble dans
+ce temps-là, et on l'avait nippée, fringuée, quoi! Un béguin qui l'avait
+pris comme ça, l'pauvre Marin! C'est un malheur! Eh bien, un jour, elle
+l'a fait pincer... en flagrant délit... un coup d'escalade et
+d'effraction... la nuit!... Attrapé, dix ans... et devant le juge, elle
+l'a chargé! Encore heureux que j'ai pas trinqué, j'étais du même coup,
+mais elle m'avait pas vu!
+
+LA TERREUR.--N'en faut pas, des castroles, ici!
+
+[Illustration: C'EST QUE JE VOUS CONNAIS TOUS, MOI]
+
+PETIT-LOUIS.--Sans compter qu'ça grille le métier! N'y faut pas de mec à
+la gonzesse, mince alors!
+
+   L'orchestre se tait. On entend un long murmure dans le bal et des
+   cris:--Bravo! Bravo!
+
+LE PATRON, à l'entrée du bal.--C'est pour avoir l'honneur de vous
+remercier! Il va être deux heures, les enfants!
+
+LE MERLAN.--On va fermer! C'est le moment! V'là la coterie qui défile et
+la Carcasse aussi! Faut pas qu'elle aille se bâcher tranquille! On y
+dégringolera son pante! Ça y est-il? Si alle bouge, quelques bonnes
+poignées de salsifis sur la poire... et faudra qu'elle paye la sauce!...
+Entendu?
+
+TOUS.--Oui!
+
+   La salle de bal se vide. Le garde républicain part, les musiciens
+   sortent, les danseurs s'attablent. Puis la Carcasse apparaît,
+   dépeignée, le visage enflammé, traînant le père Chabot veule,
+   avachi, fléchissant sur ses jambes. Le Merlan et ses acolytes
+   sont debout à droite de la salle.
+
+
+SCÈNE VII
+
+LES MÊMES, LA CARCASSE, LE PÈRE CHABOT, SOUTENEURS ET FILLES.
+
+
+LA CARCASSE, soutenant Chabot.--Tu sais, mon oncle, t'es rien lourd!
+
+CHABOT, remuant péniblement la tête.--Fatigué!... Fatigué!...
+
+LA CARCASSE.--T'es fatigué, mon pauv' vieux! T'as mal à tes gambettes!
+Dam! tu sais, faut être jeune pour tricoter des pincettes! Tiens, sis-toi
+là! (Elle le fait asseoir à la table de gauche.) Tout à l'heure, on va
+aller faire dodo! Ça te reposera! Tu prends du kirsch, dis? C'est très
+bon, le kirsch, pour vous remettre.... Garçon, du kirsch!
+
+CHABOT.--Du krisch! Oui, j'veux prendre du krisch!... C'est bon, le
+krisch!...
+
+LE MERLAN, s'approchant en se dandinant.--Bonjour, Carcasse, tu payes
+rien?
+
+LA CARCASSE.--Tiens, le Merlan! T'payer quelque chose? Tu t'en ferais
+mourir, c'est pas dans mes habitudes. D'abord, c'est pas moi... c'est mon
+oncle qui régale... à moins que le vieux.... Dis donc, vieux, veux-tu y
+offrir quelque chose, au Merlan?... C'est un ancien copain.
+
+CHABOT.--Hein, quoi?
+
+LA CARCASSE.--Je te demande si tu veux y offrir quelque chose, au
+Merlan... un verre de kirsch?
+
+CHABOT.--Du krisch?... C'est bon... le krisch!
+
+LA CARCASSE, désignant le Merlan.--Garçon, un kirsch pour monsieur!
+
+    Le Merlan s'assied en face de la Carcasse.
+
+LISA, se glissant vers la porte, à part.--C'est le moment! La Rouquine
+doit pas être loin. Vous allez voir le tableau!
+
+    Elle sort.
+
+
+[Illustration: PAS DE DISPUTES CHEZ MOI!... ALLONS, OUST!]
+
+LE MERLAN.--A ta santé, Carcasse!
+
+LA CARCASSE.--A la tienne! Trinque donc, mon oncle!
+
+    Ils trinquent.
+
+LE MERLAN, après avoir bu.--Y a tout de même longtemps qu'on s'est pas
+vu. T'es rien devenu belle fille!
+
+LA CARCASSE.--Oui... y en a déjà quelques-uns qui me l'ont dit.
+
+LE MERLAN.--Et le Marin? Y-a-t'il longtemps que t'en as eu des nouvelles,
+du Marin?
+
+LA CARCASSE.--Le Marin! Mon petit, c'est de l'histoire ancienne, ça! Ah
+bien! il est loin, s'il court toujours!
+
+
+SCÈNE VIII
+
+LES MÊMES, LA ROUQUINE, LISA.
+
+LE MERLAN, voyant apparaître la Rouquine sur le seuil.--Ma femme!
+
+    Il recule sa chaise.
+
+LA CARCASSE.--Ta femme... c'te mal roussie? Qu'est-ce que ça peut me
+foutre, ta femme? J'suis pas libre, p't'être bien, d'trinquer avec qui
+que je veux?
+
+LA ROUQUINE, s'arrêtant à deux pas de la Carcasse.--Ah! rosse, t'as pas
+assez de ton vieux? Y t'faut encore les hommes des autres! Eh bien,
+attends un peu pour voir!
+
+LA CARCASSE, debout, les poings sur les hanches.--Hein, de quoi? Des
+menaces? Eh bien, viens-y donc! Et puis, après tout, y a longtemps que tu
+me cherches.... Tu m'as trouvée, c'te fois!... Allons, je t'attends!
+
+LA ROUQUINE.--Tu m'attends? Eh bien! me v'là!
+
+   Elle se jette sur la Carcasse, mais celle-ci la saisit à
+   bras-le-corps et profitant de sa grande taille, elle fait
+   pleuvoir sur la tête de la Rouquine une grêle de coups.
+
+LA CARCASSE.--Ah! sale bête! tu veux goûter de mes salsifis! Tiens... en
+v'là un... et puis un autre... et puis encore un autre!
+
+TOUS.--Kiss! Kiss!
+
+   Un grand cercle s'est formé, au milieu duquel a lieu le combat.
+   Le père Chabot, toujours assis et très entouré, considère les
+   deux femmes d'un air hébété, tandis qu'adroitement Petit-Louis
+   explore ses poches et subtilise son porte-monnaie.
+
+LE MERLAN.--Allume, allume!
+
+LA ROUQUINE.--A mon tour, maintenant!
+
+   Elle se baisse, enlace les jambes de la Carcasse, la fait
+   basculer et toutes deux tombent, la Carcasse dessous. La Rouquine
+   lui enfonce ses ongles dans la face.
+
+LA CARCASSE.--Oh! la rosse!
+
+LA ROUQUINE.--Tiens, Casserole, v'là pour toi... et encore pour toi!
+
+[Illustration: V'LA DE LA GALTOUZE!]
+
+LE MERLAN, sans bouger.--Allume! Allume!
+
+LE PATRON.--C'est vot'dame qui a commencé, le Merlan! J'veux pas d'ça
+chez moi!
+
+LE MERLAN.--Des disputes de femmes, ça me regarde pas!
+
+   Le patron saisit la Rouquine, l'arrache avec peine de dessus la
+   Carcasse et la jette à la porte.
+
+LA CARCASSE, se relevant ensanglantée et montrant le poing à la
+Rouquine.--As pas peur! Tu perds rien pour attendre! Je te repincerai! Et
+ce sera pas long! Viens-t'en, mon vieux, paye et viens-nous-en!
+
+   Tous les souteneurs se retirent, laissant isolés au milieu de la
+   salle la Carcasse et le père Chabot.
+
+
+SCÈNE IX
+
+LES MÊMES, moins LA ROUQUINE.
+
+LA CARCASSE.--Allons, voyons! Eh bien, paye donc et que ça finisse!
+
+CHABOT, se fouillant, atterré.--Porte-monnaie!... Porte-monnaie!...
+Rien!... Je suis volé!
+
+LA CARCASSE.--Volé! On t'a volé! C'est vous autres, tas de mufles, qui
+lui avez volé sa bourse à ce pauv'vieux! Ça se passera pas comme ça! Ah!
+vous me traitez de castrole! Eh bien, j'vas vous montrer si j'en suis
+une, de castrole! C'est que je vous connais tous, moi! Toi, le
+Marseillais, c'est pas la peine de te foutre ta casquette sur l'œil, je
+te vois bien, va! Et toi, Petit-Louis, avec ton grimpant que t'as
+fabriqué à la Maube! Et toi, la Terreur, avec ta pelure que t'as grinché
+à l'étalage!
+
+LE MERLAN, s'avançant.--Et moi?
+
+LA CARCASSE.--Toi! T'aurais mieux fait de ne pas ouvrir la gargoine! Du
+haut en bas, t'as rien à toi... pas seulement tes croquenauds!
+
+CHABOT.--Je suis volé!... Je suis volé!...
+
+LE MERLAN, les dents serrées.--V'là un mot de trop, la Carcasse!
+
+LA CARCASSE.--De quoi, v'là un mot de trop? Il avait deux cents balles
+dans sa poche, mon vieux, et vous y avez secoué son porte-monnaie! A
+moins que ce soit moi.... C'est peut-être bien moi... au fait!
+
+LA TERREUR.--Pourquoi pas?
+
+LA CARCASSE.--Ah! mais non, tu sais!... Putain, tant qu'on voudra! Et
+encore pas pour toi, entends-tu, la Terreur! Putain, mais pas voleuse! A
+preuve, le Marin, mon ancien amant! Tant qu'il est resté bon fieu, ça a
+été! Mais le jour qu'il est venu me trouver et qu'il m'a dit:--«La môme,
+je te gobe, si tu veux, on va prendre une chambre ensemble, tu feras le
+turbin et pour l'argent on s'arrangera!» J'en ai eu assez!... Le jour
+qu'il est venu me trouver pour faire un coup, j'en ai eu de trop!... Je
+mange pas de ce pain-là! Y ne m'en faut pas de camelotte à moi! J'peux
+pas souffrir les pègres!
+
+[Illustration: TOUTE LA TIERCE... Y PASSERA]
+
+LE MERLAN.--Quand t'avais pus le rond, t'étais bien aise de palper ses
+pièces de vingt balles, au Marin!
+
+LA CARCASSE.--Mais j'savais pas d'où qu'elles devenaient!.. D'abord toi,
+le Merlan, t'étais son ami, son poteau! Tu passeras en jugement comme
+lui! As pas peur, j'vas m'occuper de toi et pas plus tard que demain, au
+bureau du quart d'œil.... Le porte-monnaie du vieux se retrouvera,
+crains rien! Viens, mon oncle, t'as pus le rond, eh ben! c'est moi qui
+vas casquer!
+
+LE PATRON.--En v'là assez, n'est-ce pas? Encore une fois, j'veux pas de
+disputes chez moi! Allons, oust!
+
+   Murmures dans la foule. Le patron aidé de son garçon pousse tout
+   le monde dehors, sauf Chabot et la Carcasse.
+
+LE MERLAN, sortant le dernier.--C'est bon! C'est bon! On s'en va!
+
+   Il jette en sortant un coup d'œil menaçant à la Carcasse, qui
+   soutient son regard.
+
+
+SCÈNE X
+
+LA CARCASSE, CHABOT, LE PATRON, LE GARÇON.
+
+LA CARCASSE, jetant de l'argent sur le comptoir.--V'là de la galtouze!
+Alle est pas grinchée, celle-là!
+
+LE PATRON, rendant la monnaie.--Voyez-vous, la Carcasse, moi, j'suis
+juste! Tout ça, c'est un peu de vot' faute, si vous aviez pas bu avec le
+Merlan....
+
+LA CARCASSE.--Laissez-moi donc tranquille! Tout ça, c'est voleur et
+compagnie! (Allant auprès du père Chabot qu'elle essaye de remettre sur
+ses jambes.) Viens, mon vieux, viens-nous-en! Je te ferai rendre, moi,
+ton porte-monnaie, crains rien! Ils y passeront tous, les uns après les
+autres!
+
+CHABOT.--Je suis volé.... Je suis volé!...
+
+LA CARCASSE.--Va donc! puisque je te le ferai rendre! J'irai trouver le
+quart d'œil! Demain, ils auront tous les flicards à leurs trousses...
+ils n'y couperont pas!
+
+LE PATRON.--Allons! la Carcasse, dépêchons! C'est l'heure! En route!
+
+LA CARCASSE, qui est parvenue à remettre Chabot sur ses pieds.--Si vous
+croyez que c'est facile! Allons, viens-nous-en, mon vieux!
+
+   Elle soutient Chabot et tous deux font quelques pas vers la
+   porte.
+
+LE PATRON.--Eh! le loufiat! Viens m'aider un peu à ranger les bancs dans
+la salle de bal, avant d'éteindre.
+
+LE GARÇON.--On y va!
+
+   Tous deux disparaissent dans la salle de bal.--Demi-obscurité.
+
+
+
+SCÈNE XI
+
+LA CARCASSE, CHABOT, puis successivement LA TERREUR, LE MERLAN, LA
+ROUQUINE, LISA.
+
+LA CARCASSE.--Allons! un peu de courage! (On entend au dehors un coup de
+sifflet.) Sifflez donc, tas de gouapeurs! J'vous crains pas! (Nouveau
+coup de sifflet.) Ah, çà! est-ce qu'ils nous attendraient?
+
+   Elle s'arrête au milieu de la salle, soutenant toujours le père
+   Chabot.
+
+LA TERREUR. Il passe sa tête dans l'entre-bâillement de la porte, jette
+un regard circulaire dans la salle pour s'assurer que le patron n'est
+plus là, puis il se retire en faisant un signal.--Pi... ouitt!
+
+LE MERLAN, répondant à la cantonade.--Pi... ouitt!
+
+LA CARCASSE, immobile et inquiète.--Les v'là! Tiens-toi bien, mon homme!
+
+LE MERLAN, apparaissant à la porte et marchant vers la Carcasse, à petits
+pas, les bras croisés.--T'as trop jaspiné pour ce soir, la Carcasse!
+
+LA CARCASSE.--J'ai dit ce qu'il fallait! Vous êtes des grinches,
+laisse-moi passer!
+
+   Elle veut écarter le Merlan qui ne bouge pas.
+
+LA ROUQUINE, apparaissant à la porte, suivie de Lisa.--Mais saigne-la
+donc!
+
+LA CARCASSE, à la Rouquine.--Me saigner! Viens-y donc! (Se reculant tout
+à coup avec un geste d'effroi.) T'as pas envie de me suriner, je suppose?
+
+LE MERLAN.--P't-être bien que si!
+
+   Il lui enfonce un couteau dans la poitrine.
+
+LA CARCASSE, lâchant Chabot, tombe.--Oh! la rosse! Il m'a linguée!
+Barre-toi, mon vieux!
+
+CHABOT, tombant assis lourdement, d'un air hébété.--J'suis volé!...
+j'suis volé!...
+
+LA TERREUR, debout près de la porte.--Acrès! V'là l'arnaque!
+
+   Il disparaît dans la rue. Le Merlan, les bras croisés, ne bronche
+   pas. Il regarde la Carcasse se tordant et râlant à ses pieds.
+
+LA ROUQUINE.--T'as donc pas entendu? V'là la rousse!
+
+LE MERLAN.--Je suis pas sourd!
+
+LA ROUQUINE, essayant de l'entraîner.--Viens-t'en donc!... Ils vont
+t'aggriffer!
+
+LE MERLAN, la repoussant.--Lâche-moi le coude! C'est ce que je veux! J'ai
+vengé le Marin! C'était mon poteau!... Je veux aller le retrouver!...
+
+LA ROUQUINE.--Eh bien? Et moi?...
+
+LE MERLAN.--Toi?... Je m'en fous pas mal!
+
+LA ROUQUINE.--Cochon, va!
+
+
+SCÈNE XII
+
+LES MÊMES, LE PATRON, LE GARÇON, puis des GARDIENS DE LA PAIX.
+
+LA CARCASSE, râlant.--A moi!... A moi!...
+
+LE GARÇON.--Ah! mon Dieu!... Madame Carcasse!
+
+LISA, montrant la Carcasse.--Oh! c'te poëlée! V'là où que ça mène, la
+mauvaise conduite!
+
+   Des gardiens entrent en courant. Ils saisissent la Rouquine, qui
+   cherche à s'enfuir.
+
+LA ROUQUINE, se débattant.--Tas de brigands! Tas de canailles!...
+
+    Un gardien l'entraîne.
+
+LE PATRON, survenant.--C'est lui!... C'est le Merlan!... Ah! le bandit!
+Prenez garde!... Il a son couteau!
+
+    Les agents saisissent le Merlan.
+
+LE MERLAN, très calme, souriant.--Oui! c'est moi qui l'ai surinée!...
+Mais n'ayez pas peur, allez!... Je me sauverai pas.... Je me rends....
+V'là mon lingue!...
+
+   Il tend son couteau ensanglanté. On l'entraîne aussitôt, pendant
+   que le patron, le garçon et un dernier gardien relèvent la
+   Carcasse et Chabot.
+
+LA CARCASSE, à moitié soulevée.--Je vous le dis... vous pouvez... me
+croire... tous... tous... toute la tierce... y... passera!...
+
+Elle retombe dans les bras de ceux qui la soutiennent.
+
+CHABOT.--J'suis volé!... J'suis volé!...
+
+
+RIDEAU
+
+
+38 601.--Imprimerie LAHURE, rue de Fleurus, 9, Paris.
+
+
+
+
+EN VENTE A LA MÊME LIBRAIRIE
+
+UN DES PLUS GRANDS SUCCÈS DE LA LIBRAIRIE MODERNE
+
+Plus de cinq millions de volumes répandus sur tout le globe depuis
+l'apparition de cette Bibliothèque économique.
+
+AUTEURS CÉLÈBRES
+
+à 60 centimes le volume.
+
+En jolie reliure spéciale à la collection 1 fr. le volume.
+
+Le but de la Collection des AUTEURS CÉLÈBRES est de mettre entre toutes
+les mains de bonnes éditions des meilleurs écrivains modernes et
+contemporains, pouvant en même temps tenir une belle place dans toute
+bibliothèque.
+
+CHAQUE OUVRAGE EST COMPLET EN UN VOLUME
+
+    242. NOIROT (E.)             _A Travers le Fouta-Djallon et
+                                    le Bambouc._
+    265. PAZ (MAXIME)            _Trahie._
+    347. PEARL (CORA)            _Mémoires._
+    95.  PELLICO (SILVIO)        _Mes Prisons._
+    277. PERRET (P.)             _La Fin d'un Viveur._
+    226. PEYREBRUNE (G. DE)      _Jean Bernard._
+    127. PIGAULT-LEBRUN          _Monsieur Botte._
+    73.  POÉ (EDGAR)             _Contes extraordinaires._
+    193. PONT-JEST (R. DE  )     _Divorcée._
+    160. POUTCHKINE              _Doubrovsky._
+    188. POTHEY (A.)             _La Fève de Saint-Ignace._
+    274. PRADELS (OCTAVE)        _Les Amours de Bidoche._
+    6.   PRÉVOST (L'ABBÉ)        _Manon Lescaut._
+    319. RAIMES (GASTON DE)      _L'Epave._
+    316. RATTAZZI (Mme)          _La Grand'Mère._
+    236. REIBRACH (JEAN)         _La Femme à Pouillot._
+    258. RENARD (JULES)          _Le Coureur de Filles._
+    35.  RÉVILLON (TONY)         _Le Faubourg Saint-Antoine._
+    78.        --                _Noémi._ La Bataille de la Bourse.
+    136.       --                _L'Exilé._
+    300.       --                _Les Dames de Neufve-Église._
+    18.        --                _Aventures de guerre._
+    356. RICHE (D.)              _Amours de Mâle._
+    346. RICHEPIN (JEAN)         _Quatre petits Romans._
+    77.        --                _Les Morts bizarres._
+    330. RICHEBOURG (ÉM.)        _Le Portrait de Berthe._
+    353.        --               _Sourcils noirs._
+    292. ROCHEFORT (HENRI)       _L'Aurore boréale._
+    354. ROGER-MILÈS             _Pures et Impures._
+    214. ROUSSEIL (Mlle)         _La Fille d'un Proscrit._
+    96.  RUDE (MAXIME)           _Une Victime de Couvent._
+    126.       --                _Le Roman d'une Dame d'honneur._
+    260.       --                _Les Princes tragiques._
+    15.  SANDEAU (JULES)         _Madeleine._
+    10.  SAINT-PIERRE (B. DE)    _Paul et Virginie._
+    80.  SARCEY (FRANCISQUE)     _Le Siège de Paris._
+    138. SAUNIÈRE (PAUL)         _Vif-Argent._
+    150. SCHOLL (AURÉLIEN)       _Peines de cœur._
+    336.        --               _L'Amour d'une Morte._
+    175. SÉVIGNÉ (Mme DE)        _Lettres choisies._
+    98.  SIEBECKER (É.)          _Le Baiser d'Odile._
+    335.       --                _Récits héroïques._
+    47.  SILVESTRE (ARMAND)      _Histoires Joyeuses._
+    116.        --               _Histoires folâtres._
+    165.        --               _Maïma._
+    180.        --               _Rose de Mai._
+    283.        --               _Histoires gaies._
+    293.        --               _Les Cas difficiles._
+    306.        --               _Les Veillées galantes._
+    206. SIRVEN (ALFRED)         _La Linda._
+    213.         --              _Etiennette._
+    107. SOUDAN (JEHAN)          _Histoires américaines (illust)._
+    71.  SOULIÉ (FRÉDÉRIC)       _Le Lion Amoureux._
+    246. SPOLL (E. A.)           _Le Secret des Villiers._
+    20.  STAPLEAUX (L.)          _Le Château de la Rage._
+    84.  STERNE                  _Voyage Sentimental._
+    39.  SWIFT                   _Voyages de Gulliver._
+    22.  TALMEYR (MAURICE)       _Le Grisou._
+    5.   THEURIET (ANDRÉ)        _Le Mariage de Gérard._
+    92.        --                _Lucile Désenclos.--Une Ondine._
+    281.       --                _Contes tendres._
+    79.  TOLSTOÏ                 _Le Roman du Mariage._
+    174.  --                     _La Sonate à Kreutzer._
+    299.  --                     _Premiers Souvenirs._
+    359.  --                     _A la Hussarde!_
+    326. TOPFFER (R.)            _La Bibliothèque de mon Oncle._
+    327.       --                _Nouvelles genevoises._
+    83. TOUDOUZE (G.)            _Les Cauchemars._
+    212. TOURGUENEFF (I.)        _Devant la Guillotine._
+    55.        --                _Récits d'un Chasseur._
+    109.       --                _Premier Amour._
+    302. UZANNE (OCTAVE)         _La Bohême du Cœur._
+    99.  VALLERY-RADOT           _Journ. d'un Volont. d'un an (cour.)_
+    25.  VAST-RICOUARD            _La Sirene._
+    166.       --                _Madame Lavernon._
+    257.       --                _Le Chef de Gare._
+    341. VAUCAIRE (M.)           _Le Danger d'être aimé._
+    269. VAUTIER (CL.)           _Femme et Prêtre._
+    290. VEBER (PIERRE)          _L'Innocente du logis._
+    113. VIALON (P.)             _L'Homme au Chien muet._
+    356. VEBER (P.) & WILLY (H.) _Une Passade._
+    88.  VIGNON (CLAUDE)         _Vertige._
+    49.  VILLIERS DE L'ISLE-ADAM _Le Secret de l'échafaud._
+    100. VOLTAIRE                _Zadig._--Candide.--Micromégas.
+    350.    --                   _L'Ingénu._
+    273. XANROF                  _Juju._
+    275. YVELING RAMBAUD         _Sur le tard._
+    183. ZACCONE (PIERRE)        _Seuls!_
+    3.   ZOLA (ÉMILE)            _Thérèse Raquin._
+    45.     --                   _Jacques Damour._
+    103.    --                   _Nantas._
+    122.    --                   _La Fête à Coquerille._
+    181.    --                   _Madeleine Férat._
+    255.    --                   _Jean Gourdon._
+    263.    --                   _Sidoine et Médéric._
+
+(_Extrait du Catalogue_)
+
+
+
+
+J. NICOLLE
+
+    _Costumier_
+    10, Rue Grange-Batelière, 10
+
+[Illustration]
+
+    VENTE ET LOCATION
+    de costumes
+    POUR THÉATRES ET SOIRÉES
+
+
+Photographie CAUTIN & BERGER
+
+[Illustration]
+
+    62
+    rue CAUMARTIN
+    PARIS
+
+    HOTEL PRIVÉ
+
+    Téléphone
+
+
+Le Grand Guignol /*
+
+20 bis, rue Chaptal
+
+_Directeur artistique_: _OSCAR MÉTÉNIER_ _Secrétaire général_: _PAUL
+DORNANS_
+
+TOUS LES SOIRS Comédies et drames inédits en un acte
+
+Abonnements: CENT FRANCS par an donnant droit à huit représentations
+inédites et à une entrée par semaine. */
+
+
+CHEMIN DE FER DU NORD
+
+PARIS A LONDRES
+
+VIA CALAIS OU BOULOGNE
+
+Cinq services rapides quotidiens dans chaque sens
+
+=Trajet en 7h--Traversée en 1h.=
+
+_Tous les trains comportent des 2es classes_
+
+En outre, les trains de malle de nuit partant de Paris pour Londres et de
+Londres pour Paris à 9h du soir, et les trains de jour partant de Paris
+pour Londres à 3h 45' du soir et de Londres pour Paris à 2h 45' du soir
+via Boulogne-Folkestone, prennent les voyageurs munis de billets de 3me
+classe.
+
+=Départs de Paris=:
+
+    Via Calais-Douvres: 9h, 11h 50' matin et 9h soir.
+    Via Boulogne-Folkestone: 10h 30' mat. et 3h 45' s.
+
+=Départs de Londres=:
+
+    Via Douvres-Calais: 9h, 11h matin et 9h soir.
+    Via Folkestone-Boulogne: 10h mat. et 2h 45' s.
+
+=Services officiels de la Poste= (_via Calais_).
+
+La gare de Paris-Nord, située au centre des affaires, est le point de
+départ de tous les grands express Européens pour l'Angleterre,
+l'Allemagne, la Russie, la Belgique, la Hollande, l'Espagne, le Portugal,
+etc.
+
+<tb>
+
+37965.--Imprimerie LAHURE, rue de Fleurus, 9, à Paris
+
+
+
+
+
+End of the Project Gutenberg EBook of La casserole, by Oscar Méténier
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA CASSEROLE: ***
+
+***** This file should be named 54231-0.txt or 54231-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/4/2/3/54231/
+
+Produced by Clarity, Hélène de Mink, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
